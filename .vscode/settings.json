@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.hcl": "terraform",
+    "cmath": "c",
+    "*.tcc": "c",
+    "cstdlib": "c",
+    "math.h": "c"
+  }
+}
